@@ -7,4 +7,4 @@ const myObject = {
     }
 };
 
-export default myObject; // オブジェクトをデフォルトエクスポート
+export default myObject;

@@ -7,4 +7,4 @@ let myObject = {
     }
 };
 
-export default myObject; // letで宣言したオブジェクトをエクスポート
+export default myObject;

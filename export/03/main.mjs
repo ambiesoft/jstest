@@ -9,7 +9,7 @@
 // // output: Hi!! Taro
 
 // main.js
-import myObject from './myModule.mjs'; // デフォルトエクスポートをインポート
+import myObject from './myModule.mjs';
 
 console.log(myObject.name); // 'John Doe'
 myObject.greet(); // 'Hello, my name is John Doe'
